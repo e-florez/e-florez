@@ -30,7 +30,7 @@ computers. In my spare time, I enjoy intellectual pursuits like reading,
 writing, and learning new things. I am also freelance as an editor and
 reviewer for scientific manuscripts and research for publication.
 
-> More info [Edison Florez CV](https://github.com/e-florez/cv)
+> More info [Edison Florez CV](https://github.com/e-florez/cv/blob/main/Edison_Florez_CV.pdf)
 
 ## Tech Stack:
 
