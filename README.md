@@ -10,19 +10,15 @@ Data Scientist \| Computational Physicist \| Scientific Algorithm Developer
 
 ---
 
+> More information: [Edison Florez - CV](https://github.com/e-florez/cv/blob/main/Edison_Florez_CV.pdf)
+
 ### Profile:
 
-As a data scientist with a profound background in quantum chemistry, biophysics, and mathematics, I bring over eight years of experience to the table, having served as a scientific algorithm developer, data scientist, and team leader.
+8+ years of experience specializing in statistical analysis, predictive modeling, data processing and mining algorithms. My passion lies in extracting insights from data through critical thinking and an understanding of underlying concepts. My background spans biotech startups and the financial industry, creating, developing, testing, and deploying scalable and adaptive data pipelines to translate business into deliverables.
 
-My passion lies in extracting fundamental insights from data, thinking critically, and understanding the rationale behind each task. With my ability to learn quickly and motivation to take on challenges, I have excelled as an individual contributor, taking calculated risks and showing initiative.
+### Interests:
 
-My experience spans consulting for biotech startups and the financial industry, where I develop scientific software, validate scalable HPC algorithms, and work collaboratively to deliver top-quality, data-driven scientific solutions and visualizations.
-
-I have a track record of solving complex problems through algorithm development in research labs in New Zealand, Argentina, and Colombia. In the role of a teacher, I've mentored students in two large universities, simplifying complex scientific concepts, methods, and theories in science, math, and computers.
-
-In my spare time, I enjoy intellectual pursuits like reading, writing, and learning new things. I am also freelance as an editor and reviewer for scientific manuscripts and research for publication.
-
-> More info [Edison Florez CV](https://github.com/e-florez/cv/blob/main/Edison_Florez_CV.pdf)
+I enjoy taking on challenges and embracing opportunities. I strongly believe that when you commit enough time and resources, you can achieve any goal. Beyond my professional pursuits, I enjoy expressing my creativity through science fiction writing and drawing. My fervent curiosity drives my fascination with predicting the evolution of artificial intelligence. While I'm a passionate beer and cycling enthusiast, I promise not to indulge in both simultaneously.
 
 ## Tech Stack:
 
