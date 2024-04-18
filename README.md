@@ -14,7 +14,7 @@ Data Scientist \| Business Analyst \| Computational Physicist
 
 ### Profile:
 
-8+ years of experience specializing in statistical analysis, predictive modeling, data processing and mining algorithms. My passion lies in extracting insights from data through critical thinking and an understanding of underlying concepts. My background spans biotech startups and the financial industry, creating, developing, testing, and deploying scalable and adaptive data pipelines to translate business into deliverables.
+8+ years of experience specializing in statistical analysis, predictive modeling, data processing and mining algorithms across industries like biotech and finance. My passion lies in extracting insights from data through critical thinking and an understanding of underlying concepts. My background spans biotech startups and the financial industry. Proven track record of collaborating with cross-functional teams developing, testing, and deploying scalable data pipelines to translate complex business requirements into actionable data-driven solutions.
 
 ### Interests:
 
